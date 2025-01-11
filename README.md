@@ -27,7 +27,7 @@ Certifique-se de ter instalado:
 ### 1. Clone o Repositório
 ```bash
 git clone https://github.com/MarcelaMartinsRap/AgilStore.git
-cd agilstore-inventory
+cd nome-da-pasta-criada
 ```
 
 ### 2. Configuração do Back-End
@@ -77,7 +77,6 @@ cd agilstore-inventory
 ## Estrutura do Projeto
 
 ```plaintext
-agilstore-inventory/
 ├── api/
 │   │   ├── controllers/
 │   │   ├── database/
